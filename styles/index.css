@@ -98,3 +98,19 @@ box item style
     justify-content: space-around;
     margin-top: 50px;
 }
+/* span color */
+.bgm{
+    color: red;
+}
+/* 
+img add
+*/
+.img{
+    display: flex;
+    justify-content: space-between;
+    gap: 5px;
+    width: 200px;
+    height: 300px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
