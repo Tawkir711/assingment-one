@@ -151,3 +151,16 @@ background img add
 
 
 }
+/* 
+footer styles
+*/
+.black{
+    background-color: rgb(44, 41, 41);
+    padding: 10px;
+    color: white;
+    margin-top: 50px;
+}
+.lst{
+    text-align: center;
+    padding-top: 10px;
+}
