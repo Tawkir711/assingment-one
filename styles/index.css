@@ -77,3 +77,16 @@ secened section
     text-align: center;
     
 }
+/* 
+box item style
+ */
+ .box{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(189, 178, 178);
+    margin-left: 120px;
+    margin-right: 100px;    
+    margin-top: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
