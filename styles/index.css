@@ -90,3 +90,11 @@ box item style
     padding-top: 50px;
     padding-bottom: 50px;
 }
+.container{
+    background-color: rgb(245, 205, 148);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 50px;
+}
